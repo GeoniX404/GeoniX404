@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **georgenita.dev@gmail.com**.
 
-- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn logo" height="10" width="10" /> Find me on **[LinkedIn](https://linkedin.com/in/nitageorge)**.
+- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn logo" height="15" width="15" /> Find me on **[LinkedIn](https://linkedin.com/in/nitageorge)**.
 
 - 💼 View my portfolio at **[Troopl](https://troopl.com/georgenita)**.
 
