@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **georgenita.dev@gmail.com**.
 
-- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn logo" height="20" width="20" /> Find me on **[LinkedIn](https://linkedin.com/in/nitageorge)**.
+- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn logo" height="10" width="10" /> Find me on **[LinkedIn](https://linkedin.com/in/nitageorge)**.
 
 - 💼 View my portfolio at **[Troopl](https://troopl.com/georgenita)**.
 
@@ -32,6 +32,8 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GeoniX404&show_icons=true&locale=en&layout=compact" alt="GeoniX404" /></p>
 
 
 <!--
