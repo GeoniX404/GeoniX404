@@ -1,5 +1,9 @@
 ### Hi there 👋, I'm George
 
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=GeoniX404&style=for-the-badge">
+</a>
+<!-- <p align="left"><a href="(https://komarev.com/ghpvc/?username=GeoniX404&label=VIEWS)> alt="GeoniX404" -->
 <!--
 **GeoniX404/GeoniX404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
