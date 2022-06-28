@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm George
-### A junior full-stack developer based in Norway
+#### A junior full-stack developer based in Norway
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=GeoniX404&style=for-the-badge">
